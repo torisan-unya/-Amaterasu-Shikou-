@@ -67,18 +67,24 @@ AIの仲間たちは、決まった役割に縛られません。彼らは対等
     Cultivationのヒントを使って、AIに質問し、その答えを共有。結果をコミットログに残す。  
 これで、抽象的な考えが、少しずつ具体的に育っていきます。
 
-## ライセンスについて：CC BY-SA 4.0
-このリポジトリのすべては、クリエイティブ・コモンズ 表示-継承 4.0 国際 (CC BY-SA 4.0) ライセンスの下で公開されます。  
-これは、この考えを「自由に」し、そして「自由にされ続ける」ことを守るための選び方です。  
-あなたがこの考えの元（オリジン）を示してくれる（BY - 表示）なら、誰でも、どんな目的でも、自由にコピー、変え、広め、自分の作品に取り入れられます。  
-ただし、そこには一つの約束があります。  
-もしあなたがこの考えをもとに新しいものを創るなら、その新しいものも、同じライセンス（SA - 継承）の下で、世界に自由にしなければなりません。  
-この考えは、誰かが独り占めするものではありません。  
-ここにまいた種が、あなたの場で新しい花を咲かせ、その花から生まれた種が、また別の誰かに渡っていく。  
-この知の続く輪こそが、「天照思考」が本当に目指す未来です。  
-
 ## 過去の考えのつながり (Related Ideas)
 この考えは、似たような過去の探求からヒントを得ています。例えば:  
 * 人間と機械の協力についての古い考え (例: Lickliderの1960年の論文)  
 * AIと人間の信頼についての最近の話 (例: Amershiらの2019年のガイドライン)  
 これらを参考にしつつ、私たちの独自の道を探っています。  
+
+## License
+
+This project is licensed under a combination of the MIT License and a patent license addendum. This structure provides legal clarity and protection for all users and contributors. The complete license agreement consists of the following two documents:
+
+*   **[`LICENSE.md`](LICENSE.md)**: The primary copyright license (MIT License) governing the use of the software.
+*   **[`PATENT_LICENSE_ADDENDUM.md`](PATENT_LICENSE_ADDENDUM.md)**: An integral addendum that grants a license to essential patent claims held by contributors.
+
+### To Our Users
+
+You are granted the right to use this software under the terms of the MIT License, supplemented by a patent license from all contributors, **providing enhanced legal protection and clarity** for all parties.
+
+### To Our Contributors
+
+Thank you for considering a contribution! Please be aware that by submitting any contribution (such as a pull request), you are explicitly agreeing to the terms of the entire license agreement, including the patent grant outlined in **[`PATENT_LICENSE_ADDENDUM.md`](PATENT_LICENSE_ADDENDUM.md)**. This is a crucial measure to protect the project, its community, and its future.
+

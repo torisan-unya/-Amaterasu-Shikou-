@@ -5,9 +5,6 @@ Part of the [Agora-Supercluster](https://github.com/torisan-unya/Agora-Superclus
 Authored by Torisan Unya (Independent Researcher, ORCID: [0009-0004-7067-9765](https://orcid.org/0009-0004-7067-9765)). 
 Licensed under **MIT + Patent License Addendum** (see [License](#license)).
 
-Authored by Torisan Unya (Independent Researcher, ORCID: [0009-0004-7067-9765](https://orcid.org/0009-0004-7067-9765)). 
-Licensed under **MIT + Patent License Addendum** (see [License](#license)).
-
 ## はじめに：未来の誰かへ
 これは、未来のどこかで、誰かが見つけるかもしれない思考の記録です。一人の小さな人間の考えの流れとして、ここに残します。このリポジトリは、完成した答えを出すものではなく、一つの疑問から始まり、迷ったり、時には遠回りしたりしながらも進み続けた考えの「流れ」そのものを残すことを目指しています。
 
